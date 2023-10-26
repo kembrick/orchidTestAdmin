@@ -5,5 +5,5 @@
 
 Дополнительные материалы
 
-https://orchid.software/ru/docs/
-https://www.youtube.com/playlist?list=PLM-y77GFP_D0ZtrNGXorSjlcO8KsFrcgJ
+[Репозиторий Orchid](https://orchid.software/ru/docs/)
+[Видеогайд](https://www.youtube.com/playlist?list=PLM-y77GFP_D0ZtrNGXorSjlcO8KsFrcgJ)
