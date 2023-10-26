@@ -4,6 +4,5 @@
 ![](https://github.com/kembrick/orchidTestAdmin/blob/main/orchidAdminScreen.png)
 
 Дополнительные материалы
-
-[Репозиторий Orchid](https://orchid.software/ru/docs/)
-[Видеогайд](https://www.youtube.com/playlist?list=PLM-y77GFP_D0ZtrNGXorSjlcO8KsFrcgJ)
+* [Репозиторий Orchid](https://orchid.software/ru/docs/)
+* [Видеогайд](https://www.youtube.com/playlist?list=PLM-y77GFP_D0ZtrNGXorSjlcO8KsFrcgJ)
